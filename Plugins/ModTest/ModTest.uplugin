@@ -1,0 +1,19 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "ModTest",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Unselles",
+	"CreatedByURL" : "",
+	"EngineVersion" : "4.27",
+	"Description" : "Mod",
+	"Category" : "User Mod",
+	"EnabledByDefault" : true,
+
+	"Modules" :
+	[
+	],
+
+	"CanContainContent" : true
+}
