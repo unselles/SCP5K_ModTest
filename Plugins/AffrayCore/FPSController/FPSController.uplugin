@@ -1,0 +1,42 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FPSController",
+	"Description": "First Person controller base, tools and utilities. This plugin contains some code copied/ported from Unreal Engine for compatibility. It requires a valid Unreal Engine license to use. All Unreal Engine code is subject to Epic Games' Copyright and license terms.",
+	"Category": "Other",
+	"CreatedBy": "Albarnie",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FPSController",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "SignificanceBase",
+			"Enabled": true
+		},
+		{
+			"Name": "RootMovement",
+			"Enabled": true
+		}
+	]
+}
